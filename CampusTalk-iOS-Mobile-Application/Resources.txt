@@ -10,7 +10,7 @@ Resources:
 
 2- Lets Build That App Channel, “Lets build Twitter Playlist” by Brian Voong
 
-3- Udemy Online Course “Learn to Create iOS Social App on Custom Backend” by Akhmed Idigov. 
+3- Udemy Online Course “Learn to Create iOS Social App” by Akhmed Idigov. 
 
 4- Stanford Swift Development Courses. 
 
